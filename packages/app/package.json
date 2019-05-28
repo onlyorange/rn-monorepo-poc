@@ -14,7 +14,6 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@expo/samples": "2.1.1",
     "@tcp/core": "*",
     "expo": "32.0.6",
     "expo-yarn-workspaces": "^1.1.0",
