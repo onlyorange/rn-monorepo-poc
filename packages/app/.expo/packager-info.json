@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
   "expoServerPort": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerNgrokUrl": "https://cf-sqw.anonymous.app.exp.direct",
+  "packagerNgrokUrl": "https://packager.cf-sqw.anonymous.app.exp.direct",
+  "ngrokPid": 13606,
   "packagerPort": null,
   "packagerPid": null,
   "webpackServerPort": null
