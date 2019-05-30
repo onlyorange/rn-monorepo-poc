@@ -11,9 +11,6 @@
     "rnCliPath": "../../node_modules/react-native/local-cli/cli.js",
     "nodeModulesPath": "../../",
     "entryPoint": "./index.js",
-    "packagerOpts": {
-      "config": "./rn-cli.config.js"
-    },
     "ignoreNodeModulesValidation": true,
     "version": "1.0.0",
     "orientation": "portrait",
