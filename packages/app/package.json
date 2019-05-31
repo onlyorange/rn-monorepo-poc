@@ -14,17 +14,17 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@tcp/core": "/Users/abhishekjha/Documents/untitled/new-rn/rn-monorepo-poc/packages/core/",
+    "@tcp/core": "*",
     "expo": "32.0.6",
     "expo-yarn-workspaces": "^1.1.0",
     "metro-config": "^0.53.1",
     "react": "16.6.3",
     "react-native": "0.58.5",
     "react-navigation": "^3.0.7",
-    "styled-components": "^4.2.0",
     "react-redux": "^6.0.1",
     "redux": "^4.0.1",
-    "redux-saga": "^1.0.2"
+    "redux-saga": "^1.0.2",
+    "styled-components": "^4.2.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
