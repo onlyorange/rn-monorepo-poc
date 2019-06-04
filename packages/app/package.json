@@ -27,6 +27,9 @@
     "preset": "react-native"
   },
   "workspaces": {
-    "nohoist": ["react-native", "react-native/**"]
+    "nohoist": [
+      "react-native",
+      "react-native/**"
+    ]
   }
 }
