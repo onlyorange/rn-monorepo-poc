@@ -4,7 +4,7 @@
   "main": "App.js",
   "private": true,
   "scripts": {
-    "start": "node ../../node_modules/react-native/local-cli/cli.js start",
+    "start": "node ./node_modules/react-native/local-cli/cli.js start",
     "test": "node ./node_modules/jest/bin/jest.js --watchAll"
   },
   "dependencies": {
