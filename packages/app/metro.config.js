@@ -1,17 +1,17 @@
-const path = require('path');
-// import x from './node_modules/@tcp'
-// react-native >= 0.57
-
-const extraNodeModules = {
-  '@tcp': path.resolve(__dirname + '/node_modules/@tcp/'),
-};
-const watchFolders = [
-  path.resolve(__dirname + '/node_modules/@tcp/')
-];
+/**
+ * Metro configuration for React Native
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ */
 
 module.exports = {
-  resolver: {
-    extraNodeModules,
+  transformer: {
+    getTransformOptions: async () => ({
+      transform: {
+        experimentalImportSupport: false,
+        inlineRequires: false,
+      },
+    }),
   },
-  watchFolders
 };
