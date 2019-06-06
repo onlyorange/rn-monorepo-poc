@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.m \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
