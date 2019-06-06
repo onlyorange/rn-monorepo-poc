@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@tcp/core": "file:/Users/abhishekjha/Desktop/himanshu/rn-monorepo-poc/packages/core/",
+    "aws-appsync": "^1.8.0",
     "metro-config": "^0.54.1",
     "react": "16.8.3",
     "react-native": "0.59.8",
