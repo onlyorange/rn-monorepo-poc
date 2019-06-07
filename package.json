@@ -8,8 +8,39 @@
     "lerna-clean":"npx lerna clean --y",
     "clean":"yarn cleanup && yarn lerna-clean"
   },
-  "devDependencies": {
-    "lerna": "^3.13.4"
+  "workspaces": {
+    "packages": ["packages/*"],
+    "nohoist": ["app/react-native", 
+                "app/react-native/**",
+                "app/react-redux", 
+                "app/react-redux/**", 
+                "app/redux",
+                "app/redux/**", 
+                "app/redux-saga",
+                "app/redux-saga/**",
+                "app/styled-components",
+                "app/styled-components/**",
+                "app/react-native-gesture-handler",
+                "app/react-native-gesture-handler/**",
+                "app/react-navigation",
+                "app/react-navigation/**",
+                "app/react-native-render-html",
+                "app/react-native-render-html/**",
+                "app/react-apollo",
+                "app/react-apollo/**",
+                "app/aws-appsync",
+                "app/aws-appsync/**",
+                "app/aws-appsync-react",
+                "app/aws-appsync-react/**",
+                "app/graphql",
+                "app/graphql/**",
+                "app/graphql-tag",
+                "app/graphql-tag/**",
+                "app/apisauce",
+                "app/apisauce/**",
+                "app/apollo-client",
+                "app/apollo-client/**"
+              ]
   }
  
 }
