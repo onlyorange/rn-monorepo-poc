@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.m \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.m \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

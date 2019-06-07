@@ -1,22 +1,23 @@
 dependencies: \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Views/RCTLayout.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Modules/RCTI18nUtil.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTAssert.h
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTAssert.h

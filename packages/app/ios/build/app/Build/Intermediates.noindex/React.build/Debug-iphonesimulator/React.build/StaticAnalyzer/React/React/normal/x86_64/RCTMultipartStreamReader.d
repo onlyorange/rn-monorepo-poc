@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTMultipartStreamReader.m \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

@@ -1,5 +1,7 @@
 {
   "name": "root",
+  "version":"1.0.0",
+  "description":"Adding sample description",
   "private": true,
   "scripts": {
     "cleanup": "rm -rf ./yarn.lock rm -rf ./node_modules",
@@ -8,8 +10,6 @@
   },
   "devDependencies": {
     "lerna": "^3.13.4"
-  },
-  "workspaces": [
-    "packages/*"
-  ]
+  }
+ 
 }

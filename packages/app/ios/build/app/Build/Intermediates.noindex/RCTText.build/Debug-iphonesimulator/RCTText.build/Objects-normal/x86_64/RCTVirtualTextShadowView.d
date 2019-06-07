@@ -1,23 +1,24 @@
 dependencies: \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.m \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
-  /Users/abhishekjha/Documents/untitled/rn-monorepo-poc/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.m \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/ios/build/app/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h

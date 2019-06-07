@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/eternal_mangekyo/Desktop/Juhong/rn-monorepo-poc/packages/app/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
